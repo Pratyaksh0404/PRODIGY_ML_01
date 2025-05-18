@@ -26,13 +26,13 @@ Predict the **SalePrice** of houses using the following features:
 
 ## 📁 `requirements.txt`
 
-```txt
+
 pandas
 numpy
 scikit-learn
 matplotlib
 ---
-🧪 How to Use
+## 🧪 How to Use
 📁 Dataset Files
 Make sure you have the following files before running the notebook or script:
 
