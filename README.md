@@ -36,8 +36,8 @@ matplotlib
 📁 Dataset Files
 Make sure you have the following files before running the notebook or script:
 
-train.csv — contains the training data (with SalePrice)
-test.csv — contains the test data (without SalePrice)
+- train.csv — contains the training data (with SalePrice)
+- test.csv — contains the test data (without SalePrice)
 
 
 Place both files in the project root or in a data/ folder depending on your setup.
